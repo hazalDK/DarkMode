@@ -1,0 +1,39 @@
+
+.popup {
+    width: fit-content;
+    height: fit-content;
+    background: rgb(148, 190, 204);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-family: "Lobster";
+    text-align: center;
+
+}
+
+.purple {
+    color: plum;
+}
+
+.blue {
+    color: #588BE4;
+}
+
+p {
+    font-family: "Raleway", sans-serif;
+    font-size: 0.75rem;
+}
+
+button {
+    height: 30px;
+    width: 30px;
+    outline: none;
+    margin: 10px;
+    border: none;
+    border-radius: 2px;
+    background-color: plum;
+}
